@@ -1,16 +1,19 @@
 h1 {
     color: brown;
      }
-#thirdDiv {
-    height: 600;
-    background-color: aquamarine; 
-    padding: 50;
-    border-style: inset;
-    border-width: initial;
-    }
 img { 
-    width:400;
-          }
+     width:400px;
+      }
+#thirdDiv {
+    width: 500px;
+    height: 600px;
+    background-color: aquamarine; 
+    padding: 50px;
+    border: solid 5px blueviolet;
+    text-align: center;}
 #Spanid {
     font-size: 18; margin: 50;
-     }          
+     }  
+.DivClass {
+    color: blueviolet;
+    }        
