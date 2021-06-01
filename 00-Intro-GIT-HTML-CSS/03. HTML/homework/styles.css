@@ -1,0 +1,16 @@
+h1 {
+    color: brown;
+     }
+#thirdDiv {
+    height: 600;
+    background-color: aquamarine; 
+    padding: 50;
+    border-style: inset;
+    border-width: initial;
+    }
+img { 
+    width:400;
+          }
+#Spanid {
+    font-size: 18; margin: 50;
+     }          
